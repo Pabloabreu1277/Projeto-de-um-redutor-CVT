@@ -1,4 +1,4 @@
-# Projeto-de-um-redutor-CVT
+# Projeto-de-um-redutor-CVT - Project finished.
 <div  align="left"> 
 OBJETIVOS DO TRABALHO
 Este trabalho tem por objetivo idealizar, dimensionar e desenhar um mecanismo de redução CVT para aplicação de calandras de máquinas têxteis, seguindo as especificações abaixo:
