@@ -17,4 +17,4 @@ Com base nestas restrições, todo o sistema foi dimensionado para atender as es
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="500" alt="coding-time" src="">
+    <img align="center" height="500" alt="coding-time" src="esquema">
